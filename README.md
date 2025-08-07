@@ -1,3 +1,4 @@
+# Sales_Dashboard_Project
 📊 Sales Dashboard - Power BI
 This project is a comprehensive Sales Dashboard built using Power BI to help stakeholders analyze sales performance, profitability, and product trends.
 
